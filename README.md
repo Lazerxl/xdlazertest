@@ -1,5 +1,5 @@
-
-
+getgenv().Key = "key"
+getgenv().DiscordId = "Iddiscord"
 if Key == "KEY1"
   or Key == "KEY2"
     or Key == "OVERLAZER" then
