@@ -1,5 +1,5 @@
-getgenv().Key = "key"
-getgenv().DiscordId = "Iddiscord"
+getgenv().Key = "OVERLAZER"
+getgenv().DiscordId = "937724079891423272"
 if Key == "KEY1"
   or Key == "KEY2"
     or Key == "OVERLAZER" then
